@@ -1,6 +1,13 @@
 mgmt_ip: 10.0.2.2
 sdn_controller: 10.0.0.2
 vlans:
+    yellow
+        id: 59
+    grey
+        id: 10
+    maroon
+        id: 22
+
     green
         id: 40
     blue
