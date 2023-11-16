@@ -4,8 +4,6 @@ vlans:
     yellow
         id: 59
 ports: 
-    1: [20]
-    2: [20]
     3: [25]
     6: [12]   
 auth_server: 10.40.4.4
