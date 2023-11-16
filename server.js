@@ -6,13 +6,13 @@ vlans:
     blue
         id: 12
     yellow
-        id: 30
+        id: 40
     brown
-        id: 22
+        id: 122
 ports:
 1: [10]
 2: [15]
-3: [10,20]
 4: [10, 20]
 auth_server: 10.40.4.4
+private_net: 20.20.1.2
 
