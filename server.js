@@ -4,14 +4,15 @@ vlans:
     green: 
         id: 10
     blue
-        id: 20
+        id: 12
     yellow
         id: 30
     brown
         id: 22
 ports:
 1: [10]
-2: [25]
+2: [15]
 3: [10,20]
 4: [10, 20]
-auth_server: 10.30.3.3
+auth_server: 10.40.4.4
+
