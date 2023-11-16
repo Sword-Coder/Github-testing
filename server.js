@@ -3,12 +3,6 @@ sdn_controller: 10.0.0.2
 vlans:
     yellow
         id: 59
-    grey
-        id: 10
-    green
-        id: 40
-    blue
-        id: 122
 ports: 
     1: [20]
     2: [20]
