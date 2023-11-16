@@ -7,10 +7,12 @@ vlans:
         id: 10
     maroon
         id: 22
+
+    green
+        id: 40
+    blue
+        id: 122
 ports:
-1: [10]
-2: [15]
-4: [10, 20]
 auth_server: 10.40.4.4
 private_net: 20.20.1.2
 
